@@ -2128,20 +2128,20 @@
          id="tspan320"
          x="1865.1969"
          y="988.34644">803</tspan></text>
-<a href="https://maps.google.com/?q=49.658272,6.135348" target="_blank">  
-  <text
+<text
+     x="62.362206"
+     y="803.1496"
+     style="font-size:11.339px;line-height:125%;font-family:Bahnschrift;text-anchor:middle;fill:#000000"
+     id="text321"
+     onclick="window.open('https://maps.google.com/?q=49.658272,6.135348','_blank')">
+  <tspan
+       sodipodi:role="line"
+       dx="0"
+       dy="5.669291"
+       id="tspan321"
        x="62.362206"
-       y="803.1496"
-       style="font-size:11.339px;line-height:125%;font-family:Bahnschrift;text-anchor:middle;fill:#000000"
-       id="text321"><tspan
-         sodipodi:role="line"
-         dx="0"
-         dy="5.669291"
-         id="tspan321"
-         x="62.362206"
-         y="803.1496">PN 15</tspan></text>
-</a>
-    <path
+       y="803.1496">PN 15</tspan>
+</text>    <path
        style="fill:none;stroke:#000000"
        d="M 79.3701,901.417 V 890.079"
        id="path321" />
